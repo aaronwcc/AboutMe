@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">Hello World</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc">Foods I like: Cake\n\n
+    Hobbies: Badminton, Gaming, Watching movies\n
+        Education:\n
+        \tSJK(C)Chung Ching\n
+        \tSMJK(C)Chung Ching\n
+        \tTAR UC\n
+
+    </string>
+</resources>
